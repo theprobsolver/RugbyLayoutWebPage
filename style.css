@@ -55,6 +55,30 @@
     background-color: tomato;
 }
 
+.box4 {
+    grid-column: 4/5;
+    grid-row: 5/6;
+    background-color: tomato;
+}
+
+.box5 {
+    grid-column: 4/5;
+    grid-row: 5/6;
+    background-color: tomato;
+}
+
+.box6 {
+    grid-column: 4/5;
+    grid-row: 5/6;
+    background-color: tomato;
+}
+
+.box7 {
+    grid-column: 4/5;
+    grid-row: 5/6;
+    background-color: tomato;
+}
+
 .footer {
     grid-column: 1/5;
     grid-row: 6/7;
